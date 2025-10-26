@@ -100,17 +100,25 @@
 # add by Telegram user: Saulmini / Date: 2025-07-23 09:33:33
 # add by Telegram user: Toby / Date: 2025-08-30 08:11:38
 # add by Telegram user: Yilan / Date: 2025-08-16 09:47:19
+# add by Telegram user: Yilan / Date: 2025-10-24 21:54:54
+# add by Telegram user: Yilan / Date: 2025-10-24 21:56:04
+# add by Telegram user: Yilan / Date: 2025-10-24 21:56:31
+# add by Telegram user: Yilan / Date: 2025-10-25 09:36:32
 # add by Telegram user: Yongyu / Date: 2025-08-17 01:12:13
 # add by Telegram user: chrysaly / Date: 2025-07-25 11:31:30
 # add by Telegram user: h / Date: 2025-08-27 22:24:19
 # add by Telegram user: kk / Date:2025-07-22 20:32:43
 # add by Telegram user: lei / Date: 2025-10-16 13:27:16
 # add by Telegram user: lei / Date: 2025-10-21 23:06:22
+# add by Telegram user: lei / Date: 2025-10-24 16:21:54
 # add by Telegram user: lu / Date: 2025-10-15 10:18:39
+# add by Telegram user: lu / Date: 2025-10-24 18:58:10
 # add by Telegram user: r / Date: 2025-08-13 23:24:39
 # add by Telegram user: r / Date: 2025-08-14 00:22:00
 # add by Telegram user: y / Date: 2025-10-18 22:22:04
+# add by Telegram user: young / Date: 2025-10-26 11:13:59
 # add by Telegram user: ♣️西安娱乐客服【 LuLu】 / Date: 2025-09-04 23:35:09
+# add by Telegram user: ♣️西安娱乐客服【 LuLu】 / Date: 2025-10-24 19:22:49
 # add by Telegram user: 你是 / Date: 2025-07-28 14:03:53
 # add by Telegram user: 你是 / Date: 2025-07-28 14:04:57
 # add by Telegram user: 你是 / Date: 2025-07-28 14:05:38
@@ -333,6 +341,7 @@
 115cdn.de
 1996999.xyz
 204cloud.com
+4399zmxy.com
 51wanxue.com
 51zmt.top
 52jiawei.com
@@ -366,6 +375,7 @@ bochk.com
 boyuemobile.com
 bsbsb.top
 canghaiip.com
+cdn.ist
 centbrowser.net
 cg3da.com
 chaxunjiao.com
@@ -401,6 +411,7 @@ einfo-tech.com
 englibrary.com
 epg.aptv.app
 epg.v1.mk
+everdrawing.com
 feihengip.com
 feizhiyi.com
 fengsutb.com
@@ -443,6 +454,7 @@ giveup.top
 gjtool.com
 gmoj.net
 gmya.net
+goalmapapp.com
 goka.top
 googoc.com
 gootho.com
@@ -459,6 +471,7 @@ hbcof.com
 hbctic.com
 hexiny.com
 hf-mirror.com
+hijin.vip
 hnxzctec.com
 hsbc.com.hk
 hstbroker.com
@@ -469,10 +482,13 @@ hub.rat.dev
 hub.xdark.top
 huikao8.com
 hwbim.com
+hwjianmo.com
+hwzuku.com
 hzlawyer.net
 icvcs.com
 idsduf.com
 ifconfig.co
+ifengmap.com
 ifish7.com
 igpsport.com
 imacos.top
