@@ -1,7 +1,7 @@
 # Generated from rule/Custom_Direct.list
 # REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
 # SOURCE: https://github.com/Aethersailor/Custom_OpenClash_Rules/blob/main/rule/Custom_Direct.list
-# TOTAL: 309
+# TOTAL: 317
 
 payload:
   - DOMAIN-KEYWORD,m-team
@@ -12,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,115cdn.de
   - DOMAIN-SUFFIX,1996999.xyz
   - DOMAIN-SUFFIX,204cloud.com
+  - DOMAIN-SUFFIX,4399zmxy.com
   - DOMAIN-SUFFIX,51wanxue.com
   - DOMAIN-SUFFIX,51zmt.top
   - DOMAIN-SUFFIX,52jiawei.com
@@ -45,6 +46,7 @@ payload:
   - DOMAIN-SUFFIX,boyuemobile.com
   - DOMAIN-SUFFIX,bsbsb.top
   - DOMAIN-SUFFIX,canghaiip.com
+  - DOMAIN-SUFFIX,cdn.ist
   - DOMAIN-SUFFIX,centbrowser.net
   - DOMAIN-SUFFIX,cg3da.com
   - DOMAIN-SUFFIX,chaxunjiao.com
@@ -80,6 +82,7 @@ payload:
   - DOMAIN-SUFFIX,englibrary.com
   - DOMAIN-SUFFIX,epg.aptv.app
   - DOMAIN-SUFFIX,epg.v1.mk
+  - DOMAIN-SUFFIX,everdrawing.com
   - DOMAIN-SUFFIX,feihengip.com
   - DOMAIN-SUFFIX,feizhiyi.com
   - DOMAIN-SUFFIX,fengsutb.com
@@ -122,6 +125,7 @@ payload:
   - DOMAIN-SUFFIX,gjtool.com
   - DOMAIN-SUFFIX,gmoj.net
   - DOMAIN-SUFFIX,gmya.net
+  - DOMAIN-SUFFIX,goalmapapp.com
   - DOMAIN-SUFFIX,goka.top
   - DOMAIN-SUFFIX,googoc.com
   - DOMAIN-SUFFIX,gootho.com
@@ -138,6 +142,7 @@ payload:
   - DOMAIN-SUFFIX,hbctic.com
   - DOMAIN-SUFFIX,hexiny.com
   - DOMAIN-SUFFIX,hf-mirror.com
+  - DOMAIN-SUFFIX,hijin.vip
   - DOMAIN-SUFFIX,hnxzctec.com
   - DOMAIN-SUFFIX,hsbc.com.hk
   - DOMAIN-SUFFIX,hstbroker.com
@@ -148,10 +153,13 @@ payload:
   - DOMAIN-SUFFIX,hub.xdark.top
   - DOMAIN-SUFFIX,huikao8.com
   - DOMAIN-SUFFIX,hwbim.com
+  - DOMAIN-SUFFIX,hwjianmo.com
+  - DOMAIN-SUFFIX,hwzuku.com
   - DOMAIN-SUFFIX,hzlawyer.net
   - DOMAIN-SUFFIX,icvcs.com
   - DOMAIN-SUFFIX,idsduf.com
   - DOMAIN-SUFFIX,ifconfig.co
+  - DOMAIN-SUFFIX,ifengmap.com
   - DOMAIN-SUFFIX,ifish7.com
   - DOMAIN-SUFFIX,igpsport.com
   - DOMAIN-SUFFIX,imacos.top
