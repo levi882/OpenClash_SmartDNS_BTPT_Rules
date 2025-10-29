@@ -1,7 +1,7 @@
 # Generated from rule/Custom_Direct.list
 # REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
 # SOURCE: https://github.com/Aethersailor/Custom_OpenClash_Rules/blob/main/rule/Custom_Direct.list
-# TOTAL: 317
+# TOTAL: 322
 
 payload:
   - DOMAIN-KEYWORD,m-team
@@ -54,6 +54,7 @@ payload:
   - DOMAIN-SUFFIX,checkip.dyndns.org
   - DOMAIN-SUFFIX,checkipv6.dyndns.org
   - DOMAIN-SUFFIX,chenyuxia.com
+  - DOMAIN-SUFFIX,cheshire.top
   - DOMAIN-SUFFIX,chii.in
   - DOMAIN-SUFFIX,chujingapp.com
   - DOMAIN-SUFFIX,clivia.fun
@@ -110,6 +111,7 @@ payload:
   - DOMAIN-SUFFIX,gh.ddlc.top
   - DOMAIN-SUFFIX,gh.llkk.cc
   - DOMAIN-SUFFIX,ghfast.top
+  - DOMAIN-SUFFIX,ghoxz.com
   - DOMAIN-SUFFIX,ghp.ci
   - DOMAIN-SUFFIX,ghproxy.cc
   - DOMAIN-SUFFIX,ghproxy.cfd
@@ -219,6 +221,7 @@ payload:
   - DOMAIN-SUFFIX,ottai.com
   - DOMAIN-SUFFIX,ourschool.cc
   - DOMAIN-SUFFIX,paperang.com
+  - DOMAIN-SUFFIX,pixcheese.com
   - DOMAIN-SUFFIX,plusde1.younoyes.com
   - DOMAIN-SUFFIX,plushk1.younoyes.com
   - DOMAIN-SUFFIX,plushk2.younoyes.com
@@ -250,7 +253,9 @@ payload:
   - DOMAIN-SUFFIX,seedpace.com
   - DOMAIN-SUFFIX,sgtv.ii00.cc
   - DOMAIN-SUFFIX,shineacc.com
+  - DOMAIN-SUFFIX,shunjing.xin
   - DOMAIN-SUFFIX,shuqiandiqiu.com
+  - DOMAIN-SUFFIX,shyxhy.com
   - DOMAIN-SUFFIX,sixloy428.top
   - DOMAIN-SUFFIX,sksight.com
   - DOMAIN-SUFFIX,snfox.com
