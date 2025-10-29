@@ -1,0 +1,13 @@
+ # Google
+  - 'lens.l.google.com'
+  - 'stun.l.google.com'
+  - 'na.b.g-tun.com'
+
+  # Netflix
+  - '+.nflxvideo.net'
+  
+   # Bilibili
+  - '*.mcdn.bilivideo.cn'
+
+  # Disney Plus
+  - '+.media.dssott.com'
