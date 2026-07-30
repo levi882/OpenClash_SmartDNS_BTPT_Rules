@@ -1,18 +1,7 @@
+# Generated from Custom_Proxy_Domain.yaml
+# Source: api.asailor.org
+# Total: 16
 
-# AUTHOR: Aethersailor
-# EA Desktop 云同步
-# Google 相关
-# GooglePlay 相关
-# HoYoLAB
-# NAME: Custom_Proxy
-# OneDrive 网页版
-# OpenClash 首页 IP 地址探测
-# PS5 STUN
-# PT 相关
-# REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
-# 其他
-# 嵌入式相关
-# 强制代理列表，来自个人收集
 7pzzv.us
 arduino.cc
 clientservices.googleapis.com
