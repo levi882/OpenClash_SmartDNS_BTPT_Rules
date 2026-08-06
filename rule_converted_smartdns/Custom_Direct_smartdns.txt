@@ -1,6 +1,6 @@
 # Generated from Custom_Direct_Domain.yaml
 # Source: api.asailor.org
-# Total: 663
+# Total: 677
 
 *-m-team.*
 *-quickconnect.*
@@ -9,6 +9,7 @@
 0044696.com
 03241119.xyz
 0734cn.top
+0759mall.com
 112114.xyz
 115cdn.de
 17van.com
@@ -31,6 +32,7 @@
 52jiawei.com
 52met.com
 52muban.com
+52youzai.com
 55555.ink
 580ai.net
 657192.com
@@ -43,8 +45,10 @@
 86656.net
 88996api.cloud
 8kc.top
+8x14khzwmi.com
 900cha.com
 91shenfan.com
+975135.xyz
 97973399.com
 985hezi.com
 998tool.com
@@ -83,6 +87,7 @@ asgardion.space
 atticus.vip
 awstme.top
 axuex.top
+ba-hospital.com
 babawar.com
 baicaf.com
 baiyishequ.com
@@ -122,6 +127,7 @@ cheshire.top
 chessease.net
 chii.in
 chinatle.com
+chuguansmart.com
 chujingapp.com
 chushi.cool
 clivia.fun
@@ -156,6 +162,7 @@ dell.com
 dfhog.com
 dhub.kubesre.xyz
 dingdingzn.com
+dircleaner.com
 divoiotcloud.com
 diyiedu.com
 dnshe.com
@@ -172,6 +179,7 @@ dushe1.app
 eagsen.com
 easytier.top
 easytomessage.com
+eceshi.com
 einfo-tech.com
 emby.yun
 englibrary.com
@@ -190,6 +198,7 @@ feihengip.com
 feizhiyi.com
 fengda.me
 fengsutb.com
+fffff.games
 ffhome.com
 fjpit.com
 flingtrainer.com
@@ -280,6 +289,7 @@ hhtvc.com
 hijin.vip
 hiwms.com
 hkchat.app
+hnchasing.com
 hnxzctec.com
 hongxingdl.com
 hongxingdl.love
@@ -463,6 +473,7 @@ qianxuecloud.com
 qianxueyunke.com
 qiaoqiaoyun.com
 qiaoxuesi.com
+qingjiansoft.com
 qinglue.com
 qjmotorlink.com
 qmeng.top
@@ -601,6 +612,7 @@ xiankabao.com
 xiaobeiyangji.com
 xiaochuanyun.com
 xiaolikj.online
+xiaomaicn.com
 xiaoxia.vip
 xiberia.net
 ximogo.com
@@ -616,6 +628,7 @@ xn--4kq62z5rby2qupq9ub.top
 xn--cesw6hd3s99f.com
 xn--mmz.cc
 xn--vhqr42drhf5k7b.com
+xn--zfru1ggxt.fun
 xopenbeta.com
 xuanyuancode.com
 xuepaipai.com
@@ -632,6 +645,7 @@ yingshi.dog
 yiso.fun
 yixc.com
 ymzec.com
+ynsj001.com
 yongyu.xyz
 yooc.me
 youzhiyouxing.com

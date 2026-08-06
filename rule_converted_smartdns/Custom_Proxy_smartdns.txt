@@ -1,6 +1,6 @@
 # Generated from Custom_Proxy_Domain.yaml
 # Source: api.asailor.org
-# Total: 16
+# Total: 17
 
 7pzzv.us
 arduino.cc
@@ -8,6 +8,7 @@ clientservices.googleapis.com
 cloudsync-prod.s3.us-east-1.amazonaws.com
 dmhy.org
 googleapis.cn
+gstatic.com
 hoyolab.com
 hoyoverse.com
 ip.sb
