@@ -1,6 +1,6 @@
 # Generated from Custom_Direct_Domain.yaml
 # Source: api.asailor.org
-# Total: 677
+# Total: 687
 
 *-m-team.*
 *-quickconnect.*
@@ -34,6 +34,7 @@
 52muban.com
 52youzai.com
 55555.ink
+56tvc.com
 580ai.net
 657192.com
 66990000.xyz
@@ -55,6 +56,7 @@
 a0d.top
 aaawz.cc
 acepanel.net
+acgdraw.com
 acggit.com
 adobe.com
 afeica.com
@@ -74,6 +76,7 @@ alonginwind.to
 alonginwind.top
 aloys233.top
 antping.com
+anvnjmc.com
 anycubic.com
 anythinktech.com
 anytocopy.com
@@ -198,6 +201,7 @@ feihengip.com
 feizhiyi.com
 fengda.me
 fengsutb.com
+fenno.ai
 fffff.games
 ffhome.com
 fjpit.com
@@ -291,6 +295,7 @@ hiwms.com
 hkchat.app
 hnchasing.com
 hnxzctec.com
+hoaihe.store
 hongxingdl.com
 hongxingdl.love
 hprtupgrade.com
@@ -500,6 +505,7 @@ scyol.com
 sdk-log-upload-os.hoyoverse.com
 seaflysoft.com
 seedpace.com
+senachina.com
 server2.cn2gias.uk
 sgtv.ii00.cc
 shanghai-parking.com
@@ -521,7 +527,9 @@ sptv.ii00.cc
 ssjj2.com
 starlink.uno
 stkfanli.com
+sufe.me
 sunrisecontent.akamaized.net
+suntl.com
 susudesu.com
 suu-fun.com
 suyur.com
@@ -658,6 +666,7 @@ z6e.com
 zcloud.world
 zctnet.top
 zeekrline.com
+zhaiad.com
 zhangleglobal.com
 zhi10.com
 zhiexa.com
@@ -677,5 +686,6 @@ ztytech.com
 zuobiao.press
 zysou.com
 zzclass.com
+zzqrgs3148.vip
 zzr.cc
 zzz-log-upload-os.hoyoverse.com
