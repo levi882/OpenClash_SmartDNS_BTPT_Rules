@@ -1,6 +1,6 @@
 # Generated from Custom_Direct_Domain.yaml
 # Source: api.asailor.org
-# Total: 687
+# Total: 688
 
 *-m-team.*
 *-quickconnect.*
@@ -444,6 +444,7 @@ onebuygz.com
 onetoken.sh
 onetools.top
 openappfilter.com
+openevai.com
 openkylin.top
 opentrust.net
 osbdf.com
