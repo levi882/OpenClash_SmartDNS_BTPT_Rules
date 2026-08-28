@@ -13,7 +13,7 @@ proxy-groups:
     exclude-filter: '(?i)(🇭🇰|香港|港|HK|HKG|Hong[ _-]?Kong|九龙|Kowloon|新界|沙田|荃湾|葵涌)'
     url: "https://www.gstatic.com/generate_204"
     interval: 60
-    timeout: 3000
+    timeout: 1000
     max-failed-times: 1
     lazy: true
     expected-status: 204
