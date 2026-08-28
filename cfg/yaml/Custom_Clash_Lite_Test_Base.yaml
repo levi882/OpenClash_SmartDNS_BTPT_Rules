@@ -1,18 +1,13 @@
 # Custom_Clash_Lite_Test.ini 的配套基础模板
-# 需配合已修复 Base 原生策略组保留的 SubConverter-Extended fork。
-# 转换器会追加 INI 生成的策略组，同名时以 INI 组为准。
+# 需配合支持同名 Base 参数叠加的 SubConverter-Extended fork。
+# 策略组顺序和节点成员由 INI 决定；这里仅补充 INI 无法表达的 Mihomo 参数。
 
 proxies: []
 proxy-groups:
-  # 通过非香港地区组做故障转移，保留 SubConverter INI 无法输出的完整 Mihomo 参数。
+  # 同名 INI 组会从全部 proxy-provider 加载具体节点，并继承这里的高级参数。
   - name: "🛟 故障转移"
     type: fallback
-    proxies:
-      - "🇺🇸 美国节点"
-      - "🇯🇵 日本节点"
-      - "🇸🇬 新加坡节点"
-      - "🇼🇸 台湾节点"
-      - "🇰🇷 韩国节点"
+    exclude-filter: '(?i)(🇭🇰|香港|港|HK|HKG|Hong[ _-]?Kong|九龙|Kowloon|新界|沙田|荃湾|葵涌)'
     url: "https://www.gstatic.com/generate_204"
     interval: 60
     timeout: 1000
