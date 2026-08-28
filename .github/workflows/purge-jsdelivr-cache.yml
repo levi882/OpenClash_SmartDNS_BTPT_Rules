@@ -1,0 +1,74 @@
+name: Purge jsDelivr cache
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "cfg/Custom_Clash_Lite_Test.ini"
+      - "cfg/yaml/Custom_Clash_Lite_Test_Base.yaml"
+      - ".github/workflows/purge-jsdelivr-cache.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: purge-jsdelivr-main
+  cancel-in-progress: true
+
+jobs:
+  purge:
+    name: Purge ${{ matrix.file }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    strategy:
+      fail-fast: false
+      matrix:
+        file:
+          - cfg/Custom_Clash_Lite_Test.ini
+          - cfg/yaml/Custom_Clash_Lite_Test_Base.yaml
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Purge cache and verify content
+        env:
+          FILE_PATH: ${{ matrix.file }}
+          CDN_URL: https://cdn.jsdelivr.net/gh/${{ github.repository }}@main/${{ matrix.file }}
+          PURGE_URL: https://purge.jsdelivr.net/gh/${{ github.repository }}@main/${{ matrix.file }}
+        run: |
+          set -euo pipefail
+
+          expected_sha="$(sha256sum "$FILE_PATH" | awk '{print $1}')"
+
+          echo "Purging: $PURGE_URL"
+          curl --fail-with-body --silent --show-error --location \
+            --retry 3 --retry-delay 2 --retry-all-errors \
+            --connect-timeout 15 --max-time 60 \
+            "$PURGE_URL"
+          echo
+
+          for attempt in $(seq 1 12); do
+            output_file="$RUNNER_TEMP/jsdelivr-${attempt}"
+
+            if curl --fail --silent --show-error --location \
+              --retry 2 --retry-delay 2 --retry-all-errors \
+              --connect-timeout 15 --max-time 30 \
+              "$CDN_URL" -o "$output_file"; then
+              actual_sha="$(sha256sum "$output_file" | awk '{print $1}')"
+              if [ "$actual_sha" = "$expected_sha" ]; then
+                echo "jsDelivr is serving the pushed content: $CDN_URL"
+                exit 0
+              fi
+            fi
+
+            echo "Waiting for jsDelivr propagation ($attempt/12)..."
+            sleep 10
+          done
+
+          echo "jsDelivr did not serve the pushed content within 120 seconds."
+          exit 1

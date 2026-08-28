@@ -1,22 +1,25 @@
 # Custom_Clash_Lite_Test.ini 的配套基础模板
-# subconverter 负责写入 proxies、其余 proxy-groups 和 rules；
-# 本文件预置需要完整 Mihomo 参数的策略组和 MRS rule-providers。
+# 需配合已修复 Base 原生策略组保留的 SubConverter-Extended fork。
+# 转换器会追加 INI 生成的策略组，同名时以 INI 组为准。
 
 proxies: []
 proxy-groups:
-  # subconverter 的 INI 组语法无法完整输出 timeout、max-failed-times 等字段，
-  # 因此在基础模板中原生定义，并由 Mihomo 动态加载全部非香港节点。
+  # 通过非香港地区组做故障转移，保留 SubConverter INI 无法输出的完整 Mihomo 参数。
   - name: "🛟 故障转移"
     type: fallback
-    include-all-proxies: true
-    exclude-type: "Direct"
-    exclude-filter: '(?i)(🇭🇰|香港|港|HK|HKG|Hong[ _-]?Kong|九龙|Kowloon|新界|沙田|荃湾|葵涌)'
+    proxies:
+      - "🇺🇸 美国节点"
+      - "🇯🇵 日本节点"
+      - "🇸🇬 新加坡节点"
+      - "🇼🇸 台湾节点"
+      - "🇰🇷 韩国节点"
     url: "https://www.gstatic.com/generate_204"
     interval: 60
     timeout: 1000
     max-failed-times: 1
-    lazy: true
+    lazy: false
     expected-status: 204
+
 rules: []
 
 rule-providers:
