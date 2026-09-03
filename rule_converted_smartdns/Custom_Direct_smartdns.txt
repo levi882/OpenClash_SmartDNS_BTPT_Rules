@@ -1,6 +1,6 @@
 # Generated from Custom_Direct_Domain.yaml
 # Source: api.asailor.org
-# Total: 759
+# Total: 803
 
 *-m-team.*
 *-quickconnect.*
@@ -26,6 +26,7 @@
 3gxk.net
 419g.com
 4399zmxy.com
+44nc.com
 4kgj.com
 4xiaoshuo.org
 51kandianshi.com
@@ -46,8 +47,10 @@
 737698.xyz
 77shuku.org
 7sef.com
+800686.xyz
 85sc.com
 86656.net
+888lm02.com
 88996api.cloud
 8kc.top
 8x14khzwmi.com
@@ -64,10 +67,13 @@ acepanel.net
 acgdraw.com
 acggit.com
 adhuanxiao.com
+admpv.com
+admpv.net
 adobe.com
 adosmo.com
 afeica.com
 afuns.me
+agentkey.app
 agentscope.io
 ahlt10010.com
 aibeike.com
@@ -104,9 +110,11 @@ b7f3192.com
 ba-hospital.com
 babawar.com
 baicaf.com
+baidu94.com
 baiyishequ.com
 bajie.la
 banban.work
+baominggongju.com
 batchat.com
 bdcb.cc
 beautifulcarrot.com
@@ -127,6 +135,7 @@ bsbsb.top
 bunny.net
 bvmlt.top
 ca-sinfusi.com
+calmate.cc
 canghaiip.com
 cangjie-lang.net
 cc39ute.shop
@@ -181,6 +190,7 @@ dcgstd.com
 dcshfu.com
 ddsrem.com
 ddzn.tech
+deepzero.com
 dell.com
 dfhog.com
 dhub.kubesre.xyz
@@ -230,14 +240,17 @@ ffhome.com
 fjpit.com
 flingtrainer.com
 fofuai.com
+founderyt.com
 fowep.com
 freetv.top
 frp-ski.com
+fsjiaoyubang.com
 fssbcc.top
 fsytss.com
 ft07.com
 ftqq.com
 functorz.com
+funlinkads.com
 funmob.top
 fussengroup.com
 fuyinkeji.top
@@ -294,10 +307,12 @@ gsnhcg.com
 gsstic.com
 guaitao.cc
 guang233.com
+guangshiting.top
 guangyapan.com
 gvgoo.com
 gwmapp-w.com
 gxnnjidingkeji.top
+gzjkoa.com
 gzybao.com
 h6009.top
 haimaiedu.net
@@ -328,6 +343,7 @@ hnxzctec.com
 hoaihe.store
 hongxingdl.com
 hongxingdl.love
+hooos.com
 hprtupgrade.com
 hrhgstock.com
 hsbc.com.hk
@@ -348,8 +364,10 @@ hybiome.com
 hzlawyer.net
 hzqsn.com
 ibnjl.shop
+ibwm5lynb6.com
 icvcs.com
 idazhe.net
+idphotoplus.com
 idsduf.com
 ifconfig.co
 ifengmap.com
@@ -362,6 +380,7 @@ immortalwrt.org
 indeedpower.com
 inetlab.top
 infini-fantasy.com
+inte.net
 iosgujian.com
 iot889.com
 iotrix.net
@@ -372,14 +391,17 @@ iposl.com
 ipshu.com
 istoreos.com
 itptg.com
+jbsy20riz9.com
 jduoduo.com
 jfjt.cc
+jfyxw.com
 jh96095.com
 jiangningwater.com
 jiaoyanyun.com
 jieyoutsg.com
 jiliuwang.net
 jingheiot.com
+jinsan168.com
 jinzanzan.com
 jiqw.com
 jjzyy.org
@@ -399,6 +421,7 @@ kaspersky-labs.com
 kaspersky.com
 kasperskydaily.com
 kcbd.top
+kcttpa.com
 kejiweixun.com
 keyoo.com
 kgithub.com
@@ -406,6 +429,7 @@ kit327.com
 kiwiot.com
 kldai.vip
 kmeila.com
+koebpmhcce.com
 kuaicha888.com
 kudashi.com
 kukongjian.com
@@ -424,6 +448,7 @@ liveperson.net
 longmenshuju.com
 loveutips.com
 lsbj365.com
+lsposed.zip
 lucky.gd
 lyihub.com
 lyilife.com
@@ -444,9 +469,11 @@ melecode.com
 meloong.com
 members.3322.org
 meoof-pet.com
+mfdqsc.com
 miaotixing.com
 micu.hk
 micun.com
+midoci.com
 mifeng.plus
 mifon.com
 minor-api-os.hoyoverse.com
@@ -463,7 +490,9 @@ msftncsi.com
 mslmc.net
 mtaokj.com
 muhemob.com
+myfenghua.com
 mykuaidi.com
+mypikpak.net
 myrny.xin
 myshopex.com
 mystery0.vip
@@ -492,6 +521,7 @@ openappfilter.com
 openevai.com
 openkylin.top
 opentrust.net
+orence.net
 osbdf.com
 ottai.com
 ottiptv.cc
@@ -503,6 +533,7 @@ paperang.com
 passnat.com
 pcwatch.com
 piedaochuan.top
+pinshuxsw.com
 pixcheese.com
 pkghund.com
 plusde1.younoyes.com
@@ -514,12 +545,14 @@ plusus1.younoyes.com
 plusus2.younoyes.com
 plusus3.younoyes.com
 ponyemu.com
+pookcdn.net
 pool.ntp.org
 powershellgallery.com
 ppt28.com
 privateapi.xyz
 psf0404.shop
 ptlgs.org
+pubsub.tech
 pwithe.com
 qianfan.app
 qiankunshopping.com
@@ -538,6 +571,7 @@ quxuanshu.com
 qweapi.com
 qweatherapi.com
 qzyun.net
+ranwen.tw
 rayws.top
 redenmc.com
 registry.dockermirror.com
@@ -624,6 +658,7 @@ tongkask.com
 tool56.com
 topwd.top
 touchgal.ink
+touchgaloss.com
 tozi-cn.top
 trjho.com
 ts3.ink
@@ -665,6 +700,7 @@ wlcdn88.com
 wlups.com
 wologic.net
 wpurl.cc
+wty-yy.top
 wwwh.eu.org
 wwwwqq.com
 wxdw.top
@@ -676,11 +712,13 @@ xboxfan.com
 xdqtech.com
 xdtool.com
 xesabc.com
+xesim.net
 xfltd.org
 xgzb.top
 xianghuiin.com
 xiankabao.com
 xiaobeiyangji.com
+xiaocaiyuan.com
 xiaochuanyun.com
 xiaolikj.online
 xiaomaicn.com
@@ -691,6 +729,7 @@ ximogo.com
 xingaochengtai.com
 xinghaiwaimai.com
 xingyaozhilian.com
+xinstall.top
 xiqueer.com
 xiuxitong.com
 xiwang.com
@@ -704,7 +743,9 @@ xn--zfru1ggxt.fun
 xopenbeta.com
 xuanyuancode.com
 xuepaipai.com
+xuyuanyi.com
 xxir.com
+xxjnjd.com
 xxrsm.com
 xyys.com
 xzong.online
@@ -714,6 +755,7 @@ yayi360.com
 ycjintou.com
 ydayc.com
 yhxjkj.top
+yibanbianji.com
 yicaiykt.com
 yingshi.dog
 yiso.fun
@@ -722,7 +764,9 @@ ymzec.com
 ynsj001.com
 yongyu.xyz
 yooc.me
+youqian.pro
 youzhiyouxing.com
+yueti.vip
 yunqin.online
 yunzuoye.net
 yyshub.top
