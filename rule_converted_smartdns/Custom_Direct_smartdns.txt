@@ -1,6 +1,6 @@
 # Generated from Custom_Direct_Domain.yaml
 # Source: api.asailor.org
-# Total: 803
+# Total: 853
 
 *-m-team.*
 *-quickconnect.*
@@ -21,6 +21,7 @@
 2mcnxs.cc
 365ting.com
 365wp.top
+3ced.top
 3d-apollo.com
 3dwhere.com
 3gxk.net
@@ -41,9 +42,11 @@
 55555.ink
 56tvc.com
 580ai.net
+618208.xyz
 657192.com
 66990000.xyz
 6v520.net
+71.am
 737698.xyz
 77shuku.org
 7sef.com
@@ -67,6 +70,7 @@ acepanel.net
 acgdraw.com
 acggit.com
 adhuanxiao.com
+admobile.top
 admpv.com
 admpv.net
 adobe.com
@@ -89,11 +93,14 @@ alonginwind.eu.org
 alonginwind.to
 alonginwind.top
 aloys233.top
+amap-cdn.com
 antping.com
 anvnjmc.com
 anycubic.com
 anythinktech.com
 anytocopy.com
+aoc.com
+aocdisplays.com
 ap-leasing.com
 api.myip.com
 apm-log-upload-os.hoyoverse.com
@@ -128,16 +135,19 @@ bjssjsyy.com
 bjtzeduyun.com
 bochaai.com
 bochk.com
+boowayun.com
 bowenkj.com
 boxim.online
 boyuemobile.com
 bsbsb.top
 bunny.net
 bvmlt.top
+bxlsj.com
 ca-sinfusi.com
 calmate.cc
 canghaiip.com
 cangjie-lang.net
+cc.ink
 cc39ute.shop
 ccw.site
 cdn.doctor
@@ -156,6 +166,7 @@ cheriexsky.love
 cheshire.top
 chessease.net
 chii.in
+china-amass.com
 chinatle.com
 chuguansmart.com
 chujingapp.com
@@ -174,6 +185,7 @@ cone-x.com
 congmiqq.com
 constasj.me
 coros.com
+cqnbmarathon.com
 crrcgo.cc
 crtyhr.com
 csqaq.com
@@ -194,7 +206,9 @@ deepzero.com
 dell.com
 dfhog.com
 dhub.kubesre.xyz
+diandaojia.net
 dingdingzn.com
+dingstock.net
 dircleaner.com
 divoiotcloud.com
 diyiedu.com
@@ -227,6 +241,8 @@ et0731.com
 everdrawing.com
 excelbbx.net
 exiliumgf.com
+eye4cloud.com
+faka163.com
 fastify.cc
 fb71ef91e1014.beer
 fdfinvoice.com
@@ -255,6 +271,7 @@ funmob.top
 fussengroup.com
 fuyinkeji.top
 fuziche.com
+fzedu.pub
 fzshouji.com
 fzvcolco.com
 fzwqq.com
@@ -265,6 +282,8 @@ gangtise.com
 gaojiua.com
 gaze.run
 gdcucc.v1.mk
+gdpcdz.com
+gdzhimou.com
 geektool.top
 gegeselect.hk
 gelaiyun.net
@@ -314,6 +333,7 @@ gwmapp-w.com
 gxnnjidingkeji.top
 gzjkoa.com
 gzybao.com
+h5bqb.top
 h6009.top
 haimaiedu.net
 halvie.com
@@ -328,6 +348,7 @@ hbcof.com
 hbctic.com
 hbymfswz.com
 hdbz.net
+hdcm00.com
 hexiny.com
 hezuvip.com
 hf-mirror.com
@@ -343,13 +364,16 @@ hnxzctec.com
 hoaihe.store
 hongxingdl.com
 hongxingdl.love
+hongyanyanbaihuo.online
 hooos.com
+hpr7e.top
 hprtupgrade.com
 hrhgstock.com
 hsbc.com.hk
 hstbroker.com
 hszq6.com
 htkgsx.com
+huacheng2025.com
 hub.crdz.gq
 hub.gitmirror.com
 hub.rat.dev
@@ -380,6 +404,8 @@ immortalwrt.org
 indeedpower.com
 inetlab.top
 infini-fantasy.com
+initaq.com
+inmobicdn.net
 inte.net
 iosgujian.com
 iot889.com
@@ -389,8 +415,10 @@ ip6.seeip.org
 ipapi.co
 iposl.com
 ipshu.com
+iquantumad.com
 istoreos.com
 itptg.com
+itui.cc
 jbsy20riz9.com
 jduoduo.com
 jfjt.cc
@@ -405,6 +433,7 @@ jinsan168.com
 jinzanzan.com
 jiqw.com
 jjzyy.org
+jkgeek.com
 jsdelivr.com
 jsdelivr.net
 jsj.top
@@ -433,6 +462,7 @@ koebpmhcce.com
 kuaicha888.com
 kudashi.com
 kukongjian.com
+kwai.net
 lanyun.net
 laogongju.com
 latexlive.com
@@ -449,6 +479,7 @@ longmenshuju.com
 loveutips.com
 lsbj365.com
 lsposed.zip
+lty02.com
 lucky.gd
 lyihub.com
 lyilife.com
@@ -460,6 +491,7 @@ mblyun.com
 mc-user.com
 mcar.vip
 mchuiji.com
+mcrmb.com
 mcxyzt.cc
 medtechshare.com
 meijian.com
@@ -474,8 +506,10 @@ miaotixing.com
 micu.hk
 micun.com
 midoci.com
+midoci.top
 mifeng.plus
 mifon.com
+mifosy.com
 minor-api-os.hoyoverse.com
 miraiemby.com
 mixly.org
@@ -510,10 +544,13 @@ nn.ci
 no-mad-sub.one
 nodcloud.com
 noyer.eu.org
+nwiztech.com
 nxog.top
+nyxcuy.com
 oai.sb
 oceando.cloud
 ok321.top
+omq.cc
 onebuygz.com
 onetoken.sh
 onetools.top
@@ -523,6 +560,7 @@ openkylin.top
 opentrust.net
 orence.net
 osbdf.com
+ossrs.net
 ottai.com
 ottiptv.cc
 ourschool.cc
@@ -566,7 +604,9 @@ qinglue.com
 qiuquan.org
 qjmotorlink.com
 qmeng.top
+qmpx.net
 quanxinfu.com
+quanzhua.com
 quxuanshu.com
 qweapi.com
 qweatherapi.com
@@ -600,6 +640,7 @@ shanghongbei.com
 share123.top
 shineacc.com
 shuangqingtech.com
+shuangxiumall.com
 shuinfo.com
 shunjing.xin
 shuqiandiqiu.com
@@ -611,10 +652,12 @@ sksight.com
 snfox.com
 snltty.com
 soulteary.com
+spisec.com
 sptv.ii00.cc
 ssjj2.com
 starlink.uno
 startssl.com
+staticmeow.com
 stkfanli.com
 sufe.me
 sunrisecontent.akamaized.net
@@ -684,6 +727,7 @@ vclbrokers.com
 vcltrade.com
 vgogbuy.com
 vip-cdn.com
+vlan5.com
 vpsjyz.com
 vv1865.com
 warmheart.top
@@ -697,6 +741,7 @@ wewillpro.com
 wildfirechat.net
 wjx.top
 wlcdn88.com
+wlkac.com
 wlups.com
 wologic.net
 wpurl.cc
@@ -715,6 +760,7 @@ xesabc.com
 xesim.net
 xfltd.org
 xgzb.top
+xhey.top
 xianghuiin.com
 xiankabao.com
 xiaobeiyangji.com
@@ -728,6 +774,7 @@ xiberia.net
 ximogo.com
 xingaochengtai.com
 xinghaiwaimai.com
+xingmojs.com
 xingyaozhilian.com
 xinstall.top
 xiqueer.com
@@ -737,6 +784,7 @@ xixih.cc
 xkkapk.com
 xn--4kq62z5rby2qupq9ub.top
 xn--cesw6hd3s99f.com
+xn--id-ov2cb7n32b01yl6auun2bpzk4p2dgip.com
 xn--mmz.cc
 xn--vhqr42drhf5k7b.com
 xn--zfru1ggxt.fun
@@ -753,6 +801,7 @@ xzsckj.com
 xzzhtc.com
 yayi360.com
 ycjintou.com
+ycyct.com
 ydayc.com
 yhxjkj.top
 yibanbianji.com
@@ -796,6 +845,7 @@ znztv.com
 zqin758.xyz
 zsytit.com
 ztytech.com
+zuidazym3u8.com
 zuobiao.press
 zysou.com
 zyyct.com
