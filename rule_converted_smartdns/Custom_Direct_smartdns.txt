@@ -1,12 +1,13 @@
 # Generated from Custom_Direct_Domain.yaml
 # Source: api.asailor.org
-# Total: 853
+# Total: 872
 
 *-m-team.*
 *-quickconnect.*
 *-synology.*
 00333118.com
 0044696.com
+028zk01.net
 03241119.xyz
 0734cn.top
 0759mall.com
@@ -58,6 +59,7 @@
 8kc.top
 8x14khzwmi.com
 900cha.com
+91biu.work
 91shenfan.com
 975135.xyz
 97973399.com
@@ -85,6 +87,7 @@ aichangbaishan.com
 aidien.fun
 aidream.website
 aigodlike.com
+ainfinit.com
 aisnogames.com
 aistudio-app.com
 akamaihd.net
@@ -94,6 +97,7 @@ alonginwind.to
 alonginwind.top
 aloys233.top
 amap-cdn.com
+ankltoken.com
 antping.com
 anvnjmc.com
 anycubic.com
@@ -220,6 +224,7 @@ dockerpull.org
 dockerpull.pw
 dothantech.com
 douqq.com
+dropiy.com
 drvceo.com
 dskj-ops.com
 dtproj.top
@@ -255,6 +260,7 @@ fffff.games
 ffhome.com
 fjpit.com
 flingtrainer.com
+fnspeed.net
 fofuai.com
 founderyt.com
 fowep.com
@@ -314,6 +320,7 @@ gmya.net
 goalmapapp.com
 goka.top
 gongxiangjizhang.com
+goodq.top
 goofish.pro
 googoc.com
 gootho.com
@@ -331,6 +338,7 @@ guangyapan.com
 gvgoo.com
 gwmapp-w.com
 gxnnjidingkeji.top
+gxrke1715.com
 gzjkoa.com
 gzybao.com
 h5bqb.top
@@ -387,6 +395,7 @@ hwzuku.com
 hybiome.com
 hzlawyer.net
 hzqsn.com
+hzyi.eu.org
 ibnjl.shop
 ibwm5lynb6.com
 icvcs.com
@@ -410,6 +419,7 @@ inte.net
 iosgujian.com
 iot889.com
 iotrix.net
+ip.plus
 ip159.com
 ip6.seeip.org
 ipapi.co
@@ -434,6 +444,7 @@ jinzanzan.com
 jiqw.com
 jjzyy.org
 jkgeek.com
+jnsjz.com
 jsdelivr.com
 jsdelivr.net
 jsj.top
@@ -446,6 +457,7 @@ kaijiacloud.com
 kaijiejinrong.com
 kaipanhong.com
 kancaibao.com
+kanxiquan.com
 kaspersky-labs.com
 kaspersky.com
 kasperskydaily.com
@@ -466,6 +478,7 @@ kwai.net
 lanyun.net
 laogongju.com
 latexlive.com
+leadweigh.com
 leelen.com
 letaoedu.com
 lg3000.top
@@ -548,6 +561,7 @@ nwiztech.com
 nxog.top
 nyxcuy.com
 oai.sb
+oath.com
 oceando.cloud
 ok321.top
 omq.cc
@@ -558,6 +572,7 @@ openappfilter.com
 openevai.com
 openkylin.top
 opentrust.net
+opera.com
 orence.net
 osbdf.com
 ossrs.net
@@ -649,6 +664,7 @@ sisiim.com
 sixloy428.top
 skktec.com
 sksight.com
+skxvc.com
 snfox.com
 snltty.com
 soulteary.com
@@ -669,6 +685,7 @@ svyun.com
 sxlljm.com
 sy1.top
 sztopten.com
+taichuansmart.com
 tailgdd.com
 tailscale.com
 tajiduo.com
@@ -706,6 +723,7 @@ tozi-cn.top
 trjho.com
 ts3.ink
 ttshitu.com
+tualatin.club
 tulipsport.com
 tumukaoyan.com
 tuxing.art
@@ -827,6 +845,7 @@ zctnet.top
 zeekrline.com
 zhaiad.com
 zhangleglobal.com
+zhewx.com
 zhi10.com
 zhiexa.com
 zhituwujie.com
