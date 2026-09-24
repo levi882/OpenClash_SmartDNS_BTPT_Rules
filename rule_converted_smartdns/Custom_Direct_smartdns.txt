@@ -1,6 +1,6 @@
 # Generated from Custom_Direct_Domain.yaml
 # Source: api.asailor.org
-# Total: 872
+# Total: 888
 
 *-m-team.*
 *-quickconnect.*
@@ -65,6 +65,7 @@
 97973399.com
 985hezi.com
 998tool.com
+9999jt.com
 a0d.top
 aaawz.cc
 abctougu.com
@@ -77,6 +78,7 @@ admpv.com
 admpv.net
 adobe.com
 adosmo.com
+adsmart.cc
 afeica.com
 afuns.me
 agentkey.app
@@ -142,6 +144,7 @@ bochk.com
 boowayun.com
 bowenkj.com
 boxim.online
+boxkj.com
 boyuemobile.com
 bsbsb.top
 bunny.net
@@ -172,6 +175,7 @@ chessease.net
 chii.in
 china-amass.com
 chinatle.com
+chocolateswap.com
 chuguansmart.com
 chujingapp.com
 chushi.cool
@@ -183,6 +187,7 @@ cn-music.mefun.vip
 cnb.space
 cocav.com
 code-relay.com
+code.fun
 codeloop.top
 coffee-iot.com
 cone-x.com
@@ -252,12 +257,14 @@ fastify.cc
 fb71ef91e1014.beer
 fdfinvoice.com
 feihengip.com
+feiyujiaju.com
 feizhiyi.com
 fengda.me
 fengsutb.com
 fenno.ai
 fffff.games
 ffhome.com
+fjdejing.com
 fjpit.com
 flingtrainer.com
 fnspeed.net
@@ -366,6 +373,7 @@ higgsweb.com
 hijin.vip
 hiocloud.com
 hiwms.com
+hjgdrop.cc
 hkchat.app
 hnchasing.com
 hnxzctec.com
@@ -456,6 +464,7 @@ kaihong.com
 kaijiacloud.com
 kaijiejinrong.com
 kaipanhong.com
+kamhing.net
 kancaibao.com
 kanxiquan.com
 kaspersky-labs.com
@@ -507,6 +516,7 @@ mchuiji.com
 mcrmb.com
 mcxyzt.cc
 medtechshare.com
+meetkb.com
 meijian.com
 meishiffx.online
 meiyitou.top
@@ -585,6 +595,7 @@ panjue.com
 paperang.com
 passnat.com
 pcwatch.com
+pdf001.com
 piedaochuan.top
 pinshuxsw.com
 pixcheese.com
@@ -654,9 +665,11 @@ shanghai-parking.com
 shanghongbei.com
 share123.top
 shineacc.com
+shsw.top
 shuangqingtech.com
 shuangxiumall.com
 shuinfo.com
+shulex.com
 shunjing.xin
 shuqiandiqiu.com
 shyxhy.com
@@ -683,6 +696,7 @@ suu-fun.com
 suyur.com
 svyun.com
 sxlljm.com
+sxstczx.com
 sy1.top
 sztopten.com
 taichuansmart.com
@@ -745,8 +759,10 @@ vclbrokers.com
 vcltrade.com
 vgogbuy.com
 vip-cdn.com
+visionariopro.com
 vlan5.com
 vpsjyz.com
+vtools.online
 vv1865.com
 warmheart.top
 we-stats.com
