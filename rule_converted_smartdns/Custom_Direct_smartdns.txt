@@ -1,10 +1,7 @@
 # Generated from Custom_Direct_Domain.yaml
 # Source: api.asailor.org
-# Total: 888
+# Total: 915
 
-*-m-team.*
-*-quickconnect.*
-*-synology.*
 00333118.com
 0044696.com
 028zk01.net
@@ -92,8 +89,10 @@ aigodlike.com
 ainfinit.com
 aisnogames.com
 aistudio-app.com
+aiyohoo.com
 akamaihd.net
 akamaized.net
+allptt.com
 alonginwind.eu.org
 alonginwind.to
 alonginwind.top
@@ -127,6 +126,7 @@ baidu94.com
 baiyishequ.com
 bajie.la
 banban.work
+banxueketang.com
 baominggongju.com
 batchat.com
 bdcb.cc
@@ -159,6 +159,7 @@ cc39ute.shop
 ccw.site
 cdn.doctor
 cdn.ist
+cdn362.cc
 cdut.top
 centbrowser.net
 cftunnel.com
@@ -181,6 +182,7 @@ chujingapp.com
 chushi.cool
 ciallo.party
 clivia.fun
+cloudllll.com
 cmbc.run
 cmhk.com
 cn-music.mefun.vip
@@ -194,6 +196,7 @@ cone-x.com
 congmiqq.com
 constasj.me
 coros.com
+cqjypg.com
 cqnbmarathon.com
 crrcgo.cc
 crtyhr.com
@@ -235,6 +238,7 @@ dskj-ops.com
 dtproj.top
 dushe1.app
 dytt8.com
+e0x233.com
 eagsen.com
 easytier.top
 easytomessage.com
@@ -257,6 +261,7 @@ fastify.cc
 fb71ef91e1014.beer
 fdfinvoice.com
 feihengip.com
+feiniugo.com
 feiyujiaju.com
 feizhiyi.com
 fengda.me
@@ -333,6 +338,7 @@ googoc.com
 gootho.com
 gpetrip.com
 gpgwx.com
+grz-hx.com
 gseen.com
 gsgltz.com
 gsjkjt.com
@@ -362,6 +368,7 @@ harbourmooc.com
 hbcof.com
 hbctic.com
 hbymfswz.com
+hclassplatform.com
 hdbz.net
 hdcm00.com
 hexiny.com
@@ -377,6 +384,7 @@ hjgdrop.cc
 hkchat.app
 hnchasing.com
 hnxzctec.com
+hnzjyw.com
 hoaihe.store
 hongxingdl.com
 hongxingdl.love
@@ -386,6 +394,7 @@ hpr7e.top
 hprtupgrade.com
 hrhgstock.com
 hsbc.com.hk
+hsdxdl.com
 hstbroker.com
 hszq6.com
 htkgsx.com
@@ -403,6 +412,8 @@ hwzuku.com
 hybiome.com
 hzlawyer.net
 hzqsn.com
+hzssjp.com
+hzttwl.com
 hzyi.eu.org
 ibnjl.shop
 ibwm5lynb6.com
@@ -420,6 +431,7 @@ imacos.top
 immortalwrt.org
 indeedpower.com
 inetlab.top
+inextos.com
 infini-fantasy.com
 initaq.com
 inmobicdn.net
@@ -456,6 +468,8 @@ jnsjz.com
 jsdelivr.com
 jsdelivr.net
 jsj.top
+jspvz.com
+juantui.com
 julebu.co
 jxjktzjt.com
 jxpp.com
@@ -483,6 +497,7 @@ koebpmhcce.com
 kuaicha888.com
 kudashi.com
 kukongjian.com
+kuktxu.com
 kwai.net
 lanyun.net
 laogongju.com
@@ -490,6 +505,7 @@ latexlive.com
 leadweigh.com
 leelen.com
 letaoedu.com
+lezuan6.com
 lg3000.top
 lightmake.site
 linka2a.net
@@ -497,6 +513,7 @@ linux.sb
 listenai.com
 liunn.com
 liveperson.net
+ljj233.top
 longmenshuju.com
 loveutips.com
 lsbj365.com
@@ -612,11 +629,13 @@ ponyemu.com
 pookcdn.net
 pool.ntp.org
 powershellgallery.com
+ppqrrs.com
 ppt28.com
 privateapi.xyz
 psf0404.shop
 ptlgs.org
 pubsub.tech
+pvz1.com
 pwithe.com
 qianfan.app
 qiankunshopping.com
@@ -675,6 +694,7 @@ shuqiandiqiu.com
 shyxhy.com
 sisiim.com
 sixloy428.top
+sjchess.com
 skktec.com
 sksight.com
 skxvc.com
@@ -714,7 +734,10 @@ tdrgame.top
 terra-master.com
 terrabbs.ink
 tggfl.com
+tgpro.net
+tgpro.top
 theluyuan.com
+theuwa.com
 thinkerride.com
 thispx.com
 thmnet.com
@@ -742,6 +765,7 @@ tulipsport.com
 tumukaoyan.com
 tuxing.art
 twinkstar.com
+type.fun
 tztec.top
 u-carloan.com
 uascent-iot.com
@@ -759,6 +783,7 @@ vclbrokers.com
 vcltrade.com
 vgogbuy.com
 vip-cdn.com
+vipjiapu.com
 visionariopro.com
 vlan5.com
 vpsjyz.com
@@ -767,6 +792,7 @@ vv1865.com
 warmheart.top
 we-stats.com
 webs.vc
+weixinpcs.com
 wenyi188.com
 wera.eu.org
 weshape3d.com
@@ -797,6 +823,7 @@ xgzb.top
 xhey.top
 xianghuiin.com
 xiankabao.com
+xiaoai.live
 xiaobeiyangji.com
 xiaocaiyuan.com
 xiaochuanyun.com
