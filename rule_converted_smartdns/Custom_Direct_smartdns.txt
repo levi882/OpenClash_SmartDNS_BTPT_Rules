@@ -1,6 +1,6 @@
 # Generated from Custom_Direct_Domain.yaml
 # Source: api.asailor.org
-# Total: 915
+# Total: 922
 
 00333118.com
 0044696.com
@@ -26,6 +26,7 @@
 419g.com
 4399zmxy.com
 44nc.com
+4942.cc
 4kgj.com
 4xiaoshuo.org
 51kandianshi.com
@@ -235,6 +236,7 @@ douqq.com
 dropiy.com
 drvceo.com
 dskj-ops.com
+dtinsure.com
 dtproj.top
 dushe1.app
 dytt8.com
@@ -350,6 +352,7 @@ guangshiting.top
 guangyapan.com
 gvgoo.com
 gwmapp-w.com
+gxcould.com
 gxnnjidingkeji.top
 gxrke1715.com
 gzjkoa.com
@@ -474,6 +477,7 @@ julebu.co
 jxjktzjt.com
 jxpp.com
 jzagile.com
+jzgj.com
 kaihong.com
 kaijiacloud.com
 kaijiejinrong.com
@@ -526,6 +530,7 @@ m-team.cc
 m-team.io
 machtalk.net
 manfuz.co
+maxdo.tech
 mblyun.com
 mc-user.com
 mcar.vip
@@ -656,6 +661,7 @@ quxuanshu.com
 qweapi.com
 qweatherapi.com
 qzyun.net
+r2s.site
 ranwen.tw
 rayws.top
 redenmc.com
@@ -914,6 +920,7 @@ zyyct.com
 zzclass.com
 zzqrgs3148.vip
 zzr.cc
+zzz-hp.top
 zzz-log-upload-os.hoyoverse.com
 zzzcaculator.top
 zzzmap.com
