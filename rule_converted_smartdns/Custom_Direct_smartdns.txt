@@ -1,6 +1,6 @@
 # Generated from Custom_Direct_Domain.yaml
 # Source: api.asailor.org
-# Total: 922
+# Total: 983
 
 00333118.com
 0044696.com
@@ -8,6 +8,9 @@
 03241119.xyz
 0734cn.top
 0759mall.com
+10fuzhu.com
+10laodian.com
+112114.eu.org
 112114.xyz
 115cdn.de
 123795.com
@@ -107,6 +110,7 @@ anythinktech.com
 anytocopy.com
 aoc.com
 aocdisplays.com
+aoxox.com
 ap-leasing.com
 api.myip.com
 apm-log-upload-os.hoyoverse.com
@@ -138,6 +142,7 @@ betahub.tech
 biandangroup.com
 biaoda.me
 bingshandashu.com
+bitauto.hk
 bjssjsyy.com
 bjtzeduyun.com
 bochaai.com
@@ -147,10 +152,13 @@ bowenkj.com
 boxim.online
 boxkj.com
 boyuemobile.com
+bs-iot.com
 bsbsb.top
 bunny.net
 bvmlt.top
 bxlsj.com
+byyang.top
+byyoung.top
 ca-sinfusi.com
 calmate.cc
 canghaiip.com
@@ -182,6 +190,7 @@ chuguansmart.com
 chujingapp.com
 chushi.cool
 ciallo.party
+ciyuancenter.cc
 clivia.fun
 cloudllll.com
 cmbc.run
@@ -239,6 +248,9 @@ dskj-ops.com
 dtinsure.com
 dtproj.top
 dushe1.app
+dw2.co
+dw8.co
+dw9.co
 dytt8.com
 e0x233.com
 eagsen.com
@@ -274,6 +286,7 @@ ffhome.com
 fjdejing.com
 fjpit.com
 flingtrainer.com
+fm-vip.com
 fnspeed.net
 fofuai.com
 founderyt.com
@@ -346,10 +359,17 @@ gsgltz.com
 gsjkjt.com
 gsnhcg.com
 gsstic.com
+gta5max.com
+gta5studio.com
+gta5xforce.com
+gta6keji.com
+gtakm.com
+gtazhiyu.com
 guaitao.cc
 guang233.com
 guangshiting.top
 guangyapan.com
+guyuns.asia
 gvgoo.com
 gwmapp-w.com
 gxcould.com
@@ -398,6 +418,7 @@ hprtupgrade.com
 hrhgstock.com
 hsbc.com.hk
 hsdxdl.com
+hshh.org
 hstbroker.com
 hszq6.com
 htkgsx.com
@@ -406,6 +427,7 @@ hub.crdz.gq
 hub.gitmirror.com
 hub.rat.dev
 hub.xdark.top
+hueihuei.top
 huikao8.com
 hutaoyun.top
 hwbim.com
@@ -446,6 +468,7 @@ ip.plus
 ip159.com
 ip6.seeip.org
 ipapi.co
+ipjrh.com
 iposl.com
 ipshu.com
 iquantumad.com
@@ -460,6 +483,7 @@ jh96095.com
 jiangningwater.com
 jiaoyanyun.com
 jieyoutsg.com
+jieyunwangluokeji.com
 jiliuwang.net
 jingheiot.com
 jinsan168.com
@@ -513,6 +537,7 @@ lezuan6.com
 lg3000.top
 lightmake.site
 linka2a.net
+linkcircle.net
 linux.sb
 listenai.com
 liunn.com
@@ -524,12 +549,14 @@ lsbj365.com
 lsposed.zip
 lty02.com
 lucky.gd
+lw5.co
 lyihub.com
 lyilife.com
 m-team.cc
 m-team.io
 machtalk.net
 manfuz.co
+maticooads.com
 maxdo.tech
 mblyun.com
 mc-user.com
@@ -555,10 +582,12 @@ midoci.top
 mifeng.plus
 mifon.com
 mifosy.com
+minekuai.com
 minor-api-os.hoyoverse.com
 miraiemby.com
 mixly.org
 mobai.sbs
+moctory.com
 modaiyun.com
 modelscope.net
 monkeyray.net
@@ -575,6 +604,7 @@ mypikpak.net
 myrny.xin
 myshopex.com
 mystery0.vip
+naitanghuyu.com
 naixi.com
 nanhuabx.com
 nanshe-tech.com
@@ -601,6 +631,7 @@ onebuygz.com
 onetoken.sh
 onetools.top
 openappfilter.com
+opencool.top
 openevai.com
 openkylin.top
 opentrust.net
@@ -610,9 +641,11 @@ osbdf.com
 ossrs.net
 ottai.com
 ottiptv.cc
+ourom.top
 ourschool.cc
 p01.epsonconnect.com
 packertec.com
+pailedi.com
 panjue.com
 paperang.com
 passnat.com
@@ -621,6 +654,7 @@ pdf001.com
 piedaochuan.top
 pinshuxsw.com
 pixcheese.com
+pjnoeru.top
 pkghund.com
 plusde1.younoyes.com
 plushk1.younoyes.com
@@ -642,6 +676,7 @@ ptlgs.org
 pubsub.tech
 pvz1.com
 pwithe.com
+pziqna.net
 qianfan.app
 qiankunshopping.com
 qianuni.com
@@ -651,6 +686,7 @@ qiaoqiaoyun.com
 qiaoxuesi.com
 qingjiansoft.com
 qinglue.com
+qiongshu.net
 qiuquan.org
 qjmotorlink.com
 qmeng.top
@@ -667,13 +703,18 @@ rayws.top
 redenmc.com
 registry.dockermirror.com
 rewards.bing.com
+rkgamingstore.com
 royqh.net
 rsfcxq.com
+rsmods.cc
+rsmods.me
+rsmods.net
 ruijie.com
 rxcrs.com
 saduck.top
 sanligu.top
 sapphiretech.com
+sbtia.com
 scbaijia.com
 scnyw.com
 scratch5.com
@@ -685,10 +726,12 @@ seedpace.com
 senachina.com
 senmuse.com
 server2.cn2gias.uk
+sgllife.com
 sgtv.ii00.cc
 shanghai-parking.com
 shanghongbei.com
 share123.top
+shenzhendongwei.com
 shineacc.com
 shsw.top
 shuangqingtech.com
@@ -701,6 +744,7 @@ shyxhy.com
 sisiim.com
 sixloy428.top
 sjchess.com
+sjyywy.com
 skktec.com
 sksight.com
 skxvc.com
@@ -708,6 +752,7 @@ snfox.com
 snltty.com
 soulteary.com
 spisec.com
+spst1.com
 sptv.ii00.cc
 ssjj2.com
 starlink.uno
@@ -718,18 +763,22 @@ sufe.me
 sunrisecontent.akamaized.net
 suntl.com
 susudesu.com
+suto.top
 suu-fun.com
 suyur.com
 svyun.com
 sxlljm.com
 sxstczx.com
 sy1.top
+szfx.top
 sztopten.com
 taichuansmart.com
 tailgdd.com
 tailscale.com
+taiqp.com
 tajiduo.com
 talk-cloud.net
+tange365.com
 tangguobaohe.com
 tclai.top
 tcp.mk
@@ -742,12 +791,14 @@ terrabbs.ink
 tggfl.com
 tgpro.net
 tgpro.top
+thejoyridegames.com
 theluyuan.com
 theuwa.com
 thinkerride.com
 thispx.com
 thmnet.com
 threep.top
+threewinnersid.com
 tianlala.com
 tianruo.xyz
 timbrd.com
@@ -758,6 +809,7 @@ tmwanba.com
 tnas.link
 tnas.online
 tongkask.com
+tongxids.com
 tool56.com
 topwd.top
 touchgal.ink
@@ -792,6 +844,7 @@ vip-cdn.com
 vipjiapu.com
 visionariopro.com
 vlan5.com
+volcanomob.com
 vpsjyz.com
 vtools.online
 vv1865.com
@@ -805,6 +858,7 @@ weshape3d.com
 wetolink.com
 wewillpro.com
 wildfirechat.net
+wisecleaner.net
 wjx.top
 wlcdn88.com
 wlkac.com
@@ -823,10 +877,12 @@ xboxfan.com
 xdqtech.com
 xdtool.com
 xesabc.com
+xesim.cc
 xesim.net
 xfltd.org
 xgzb.top
 xhey.top
+xiamp.net
 xianghuiin.com
 xiankabao.com
 xiaoai.live
@@ -871,17 +927,20 @@ ycjintou.com
 ycyct.com
 ydayc.com
 yhxjkj.top
+yi-ll.com
 yibanbianji.com
 yicaiykt.com
 yingshi.dog
 yiso.fun
 yixc.com
+ymwfy.com
 ymzec.com
 ynsj001.com
 yongyu.xyz
 yooc.me
 youqian.pro
 youzhiyouxing.com
+yshoufa.com
 yueti.vip
 yunqin.online
 yunzuoye.net
@@ -896,6 +955,7 @@ zhaiad.com
 zhangleglobal.com
 zhewx.com
 zhi10.com
+zhidianmijin.top
 zhiexa.com
 zhituwujie.com
 zhixingyunke.com
@@ -907,6 +967,7 @@ zjjslawyer.com
 zjshulong.com
 zjxhedu.com
 zllinks.com
+zmaticoo.com
 zmis.me
 znnu.com
 znztv.com
