@@ -1,6 +1,6 @@
 # Generated from Custom_Direct_Domain.yaml
 # Source: api.asailor.org
-# Total: 983
+# Total: 1007
 
 00333118.com
 0044696.com
@@ -15,6 +15,7 @@
 115cdn.de
 123795.com
 123clouddisk.com
+12zayb.com
 17van.com
 1996999.xyz
 204cloud.com
@@ -119,6 +120,7 @@ aqtwwx.net
 argotunnel.com
 armvm.com
 asgardion.space
+astrobox.online
 atticus.vip
 awstme.top
 ax1x.com
@@ -130,8 +132,10 @@ baicaf.com
 baidu94.com
 baiyishequ.com
 bajie.la
+bambulab.com
 banban.work
 banxueketang.com
+baoku.one
 baominggongju.com
 batchat.com
 bdcb.cc
@@ -152,6 +156,7 @@ bowenkj.com
 boxim.online
 boxkj.com
 boyuemobile.com
+browserscan.net
 bs-iot.com
 bsbsb.top
 bunny.net
@@ -163,8 +168,10 @@ ca-sinfusi.com
 calmate.cc
 canghaiip.com
 cangjie-lang.net
+cbn.id
 cc.ink
 cc39ute.shop
+cc44dd.com
 ccw.site
 cdn.doctor
 cdn.ist
@@ -174,6 +181,7 @@ centbrowser.net
 cftunnel.com
 cg3da.com
 cgicop.com
+changjirb.com
 chaxunjiao.com
 chaz.fun
 checkip.dyndns.org
@@ -257,6 +265,7 @@ eagsen.com
 easytier.top
 easytomessage.com
 eceshi.com
+ectaiping.com
 einfo-tech.com
 emby.yun
 englibrary.com
@@ -382,8 +391,10 @@ h6009.top
 haimaiedu.net
 halvie.com
 ham.xin
+handfree.work
 hangnakeji.com
 hanqiuming888.com
+hanzhe.site
 haofanhuoban.com
 haojieyun.com
 haoxueche.com
@@ -395,6 +406,7 @@ hclassplatform.com
 hdbz.net
 hdcm00.com
 hexiny.com
+heysida.com
 hezuvip.com
 hf-mirror.com
 hfhs8x.info
@@ -453,7 +465,6 @@ igpsport.com
 ijingyi.com
 ilucky.net
 imacos.top
-immortalwrt.org
 indeedpower.com
 inetlab.top
 inextos.com
@@ -471,6 +482,7 @@ ipapi.co
 ipjrh.com
 iposl.com
 ipshu.com
+iq.com
 iquantumad.com
 istoreos.com
 itptg.com
@@ -530,6 +542,7 @@ kwai.net
 lanyun.net
 laogongju.com
 latexlive.com
+laupqc.com
 leadweigh.com
 leelen.com
 letaoedu.com
@@ -552,6 +565,7 @@ lucky.gd
 lw5.co
 lyihub.com
 lyilife.com
+lzgame.top
 m-team.cc
 m-team.io
 machtalk.net
@@ -628,6 +642,7 @@ oceando.cloud
 ok321.top
 omq.cc
 onebuygz.com
+onesetapp.com
 onetoken.sh
 onetools.top
 openappfilter.com
@@ -672,7 +687,9 @@ ppqrrs.com
 ppt28.com
 privateapi.xyz
 psf0404.shop
+pthqzpc100.com
 ptlgs.org
+ptxzn.com
 pubsub.tech
 pvz1.com
 pwithe.com
@@ -697,7 +714,6 @@ quxuanshu.com
 qweapi.com
 qweatherapi.com
 qzyun.net
-r2s.site
 ranwen.tw
 rayws.top
 redenmc.com
@@ -750,6 +766,7 @@ sksight.com
 skxvc.com
 snfox.com
 snltty.com
+sollin.top
 soulteary.com
 spisec.com
 spst1.com
@@ -780,6 +797,7 @@ tajiduo.com
 talk-cloud.net
 tange365.com
 tangguobaohe.com
+taotoken.net
 tclai.top
 tcp.mk
 tcp.pub
@@ -823,6 +841,7 @@ tulipsport.com
 tumukaoyan.com
 tuxing.art
 twinkstar.com
+twtapp.com
 type.fun
 tztec.top
 u-carloan.com
@@ -848,7 +867,10 @@ volcanomob.com
 vpsjyz.com
 vtools.online
 vv1865.com
+vvhan.com
+wallecube.com
 warmheart.top
+wawo.cc
 we-stats.com
 webs.vc
 weixinpcs.com
@@ -907,6 +929,7 @@ xixih.cc
 xkkapk.com
 xn--4kq62z5rby2qupq9ub.top
 xn--cesw6hd3s99f.com
+xn--estr6ge7tok1a.com
 xn--id-ov2cb7n32b01yl6auun2bpzk4p2dgip.com
 xn--mmz.cc
 xn--vhqr42drhf5k7b.com
@@ -933,6 +956,7 @@ yicaiykt.com
 yingshi.dog
 yiso.fun
 yixc.com
+yldw.net
 ymwfy.com
 ymzec.com
 ynsj001.com
