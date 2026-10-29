@@ -1,6 +1,6 @@
 # Generated from Custom_Direct_Domain.yaml
 # Source: api.asailor.org
-# Total: 1007
+# Total: 1024
 
 00333118.com
 0044696.com
@@ -51,6 +51,7 @@
 6v520.net
 71.am
 737698.xyz
+77shuku.info
 77shuku.org
 7sef.com
 800686.xyz
@@ -94,6 +95,7 @@ aigodlike.com
 ainfinit.com
 aisnogames.com
 aistudio-app.com
+aitongqian.com
 aiyohoo.com
 akamaihd.net
 akamaized.net
@@ -182,6 +184,7 @@ cftunnel.com
 cg3da.com
 cgicop.com
 changjirb.com
+changzhi.top
 chaxunjiao.com
 chaz.fun
 checkip.dyndns.org
@@ -198,6 +201,7 @@ chuguansmart.com
 chujingapp.com
 chushi.cool
 ciallo.party
+cindy.app
 ciyuancenter.cc
 clivia.fun
 cloudllll.com
@@ -212,6 +216,7 @@ codeloop.top
 coffee-iot.com
 cone-x.com
 congmiqq.com
+constantinefun.com
 constasj.me
 coros.com
 cqjypg.com
@@ -441,6 +446,7 @@ hub.rat.dev
 hub.xdark.top
 hueihuei.top
 huikao8.com
+human-horizons.com
 hutaoyun.top
 hwbim.com
 hwjianmo.com
@@ -469,6 +475,7 @@ indeedpower.com
 inetlab.top
 inextos.com
 infini-fantasy.com
+infistar.cc
 initaq.com
 inmobicdn.net
 inte.net
@@ -543,6 +550,7 @@ lanyun.net
 laogongju.com
 latexlive.com
 laupqc.com
+ldboost.com
 leadweigh.com
 leelen.com
 letaoedu.com
@@ -555,6 +563,7 @@ linux.sb
 listenai.com
 liunn.com
 liveperson.net
+liyunol.com
 ljj233.top
 longmenshuju.com
 loveutips.com
@@ -713,6 +722,7 @@ quanzhua.com
 quxuanshu.com
 qweapi.com
 qweatherapi.com
+qzy.xyz
 qzyun.net
 ranwen.tw
 rayws.top
@@ -788,6 +798,7 @@ sxlljm.com
 sxstczx.com
 sy1.top
 szfx.top
+szmtzd.com
 sztopten.com
 taichuansmart.com
 tailgdd.com
@@ -851,6 +862,7 @@ ugediao.com
 ugnas.cloud
 ulife.group
 us.ci
+v-koolsh.com
 vanjee.net
 vbkhk.com
 vbkr.com
@@ -869,6 +881,7 @@ vtools.online
 vv1865.com
 vvhan.com
 wallecube.com
+wanzd.com
 warmheart.top
 wawo.cc
 we-stats.com
@@ -888,11 +901,13 @@ wlups.com
 wologic.net
 wpurl.cc
 wty-yy.top
+wuhanjijin.com
 wwwh.eu.org
 wwwwqq.com
 wxdw.top
 x-gpu.com
 x86pi.com
+xaippc.com
 xbcloudprint.com
 xbgjw.com
 xboxfan.com
@@ -914,12 +929,14 @@ xiaochuanyun.com
 xiaolikj.online
 xiaomaicn.com
 xiaoxia.vip
+xiaoyao.co
 xiaoyuan888.com
 xiberia.net
 ximogo.com
 xingaochengtai.com
 xinghaiwaimai.com
 xingmojs.com
+xingpaste.com
 xingyaozhilian.com
 xinstall.top
 xiqueer.com
